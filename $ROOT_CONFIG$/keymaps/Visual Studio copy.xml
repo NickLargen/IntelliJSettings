@@ -7,11 +7,18 @@
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
+  <action id="GotoNextError" />
   <action id="GuiDesigner.Duplicate" />
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt F8" />
     <keyboard-shortcut first-keystroke="control alt F" />
     <keyboard-shortcut first-keystroke="shift control F" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift F6" />
+    <keyboard-shortcut first-keystroke="F2" />
   </action>
   <action id="SendEOF" />
   <action id="SwitchApply">
